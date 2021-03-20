@@ -2,7 +2,7 @@ aiofiles==0.4.0
 Click==7.0
 h11==0.9.0
 httptools==0.0.13
-Jinja2==2.11.1
+Jinja2==2.11.3
 MarkupSafe==1.1.1
 starlette==0.13.1
 uvicorn==0.11.2
